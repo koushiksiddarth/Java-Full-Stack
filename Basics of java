@@ -24,3 +24,16 @@ Rules for variables
 8)A variable must be declared before it is used.
 9)Local variables must be initialized before they are used.
 10)Variable names should be meaningful and descriptive.
+METHOD EXPLANATION
+Scanner method             Example                 Return type
+nextInt()                    25                       int
+nextLong()                   987654321L               long
+nextFloat()                  85.5f                    float
+nextDouble()                 25000.75                 Double
+next()                       venu                     String
+nextLine()                   Hello Java               String
+next().charAt(0)             A                        char
+nextBoolean()                true                     Boolean
+
+
+
