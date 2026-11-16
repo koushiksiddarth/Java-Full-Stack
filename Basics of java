@@ -1,4 +1,26 @@
 java is object oriented programming language
 oak is a satellite project 
 green => oak => Star7 demo=> renamed java=>JDK 1.0
-
+1991,1991,1992,1995,1996
+write once Run Anywhere (WORA)
+Numeric Data types
+int
+float
+short
+double 
+long
+byte
+String Data types
+String
+char
+Rules for variables 
+1)A variable name must start with a letter, underscore (_), or dollar sign ($).
+2)A variable name cannot start with a digit.
+3)Variable names cannot contain spaces.
+4)Java keywords cannot be used as variable names (e.g., int, class, public).
+5)Variable names are case-sensitive (age and Age are different).
+6)A variable name can contain letters, digits, underscores, and dollar signs.
+7)Every variable must have a valid data type.
+8)A variable must be declared before it is used.
+9)Local variables must be initialized before they are used.
+10)Variable names should be meaningful and descriptive.
