@@ -1,6 +1,6 @@
 
                  Control
-    |               |             |
+    /               |             \
 conditional        looping       jumping
  |                   |              |
 if                 for             continue
