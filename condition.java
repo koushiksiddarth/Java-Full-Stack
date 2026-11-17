@@ -1,13 +1,12 @@
+import java.util.Scanner;
 public class condition {
     public static void main(String[] args) {
-        int number = 10;
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter an integer: ");
+        int num = sc.nextInt();
+        String result=(num %2==0) ? "Even" : "Odd";
+        System.out.println("The number is: "+result);
 
-        if (number > 0) {
-            System.out.println("The number is positive.");
-        } else if (number < 0) {
-            System.out.println("The number is negative.");
-        } else {
-            System.out.println("The number is zero.");
-        }
+       
     }
 }
