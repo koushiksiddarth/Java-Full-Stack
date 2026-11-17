@@ -1,0 +1,10 @@
+
+                 Control
+    /               |             \
+conditional        looping       jumping
+ |                   |              |
+if                 for             continue
+if else            while           break
+else if ladder     do while        return
+Nested if
+Switch

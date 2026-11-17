@@ -35,5 +35,14 @@ nextLine()                   Hello Java               String
 next().charAt(0)             A                        char
 nextBoolean()                true                     Boolean
 
+                 Control
+    |               |             |
+conditional        looping       jumping
+ |                   |              |
+if                 for             continue
+if else            while           break
+else if ladder     do while        return
+Nested if
+Switch
 
 
