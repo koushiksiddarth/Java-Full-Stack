@@ -28,3 +28,45 @@ Checking Length	          arr.length	                                           
                                                           **************** STRING ***************
 String is a sequence of characters used to store text or words in java.
 -> String is an object of the `string` class in java that represents a sequence of characters.
+>>>> DECLARATION
+ String name="KOUSHIK";
+
+1.length()
+returns the number of characters in a string
+
+2.tolowercase()
+converts all characters into lowercase
+String s="JAVA";
+System.out.println(s.tolowerCase());
+output=java
+
+3.equals()
+compares two strings based on their content.
+String a="java";
+string b="java";
+System.out.println(a.equals(b));
+
+4.equalsIgnoreCase()
+compares strings without considering uppercase or lowercase differences
+String  a="JAVA"
+String b="java"
+System.out.println(a.equalsIgnoreCase(b));
+
+5.contains()
+checks whether a String contains a particular sequence of characters.
+String s="Java program";
+System.out.print(s.contains("java"));
+output=true
+
+6.replace()
+
+replaces characters or character sequences
+String s="java";
+System.out.println(s.replace('a','o'));
+output:jovo
+
+7.trim()
+removes leading and trailing spaces
+String s="  Hello  "
+System.out.println(s.trim());
+output=Hello
