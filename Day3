@@ -1,1 +1,30 @@
+                                             ********************* ARRAY ************************
+Array - collection of items/elements with same datatypes
+single array declaration- 
+int n=6;
+int arr[]=new int [n];
 
+-> Double array declaration
+int arr[][]= new int[][];
+->>
+
+Standard Array vs. ArrayList
+
+                                                         ********** Declaration *********
+• Primitive Variable: int num = 10;
+• Standard Array (Empty with Size): int[] arr = new int[5];
+• Standard Array (With Values): int[] arr = {10, 20, 30, 40, 50};
+• ArrayList (Empty): ArrayList<Integer> list = new ArrayList<>();
+• ArrayList (With Values): ArrayList<Integer> list = new ArrayList<>(Arrays.asList(10, 20, 30));
+• List Interface (Best Practice): List<Integer> list = new ArrayList<>();
+
+Feature                 	Standard Array (int[])	                                  ArrayList (ArrayList<Integer>)
+Size      	              Fixed once created	                                     Dynamic (grows automatically)
+Data Type	                Holds primitives (int)	                                 Holds objects (Integer)
+Adding Items	            arr[0] = 10;	                                           result.add(10);
+Getting Items	            arr[0]	                                                 result.get(0)
+Checking Length	          arr.length	                                             result.size()
+
+                                                          **************** STRING ***************
+String is a sequence of characters used to store text or words in java.
+-> String is an object of the `string` class in java that represents a sequence of characters.
