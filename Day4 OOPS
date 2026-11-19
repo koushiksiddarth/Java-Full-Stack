@@ -20,3 +20,9 @@ An abstract class is a class declared using the abstract keyword. It cannot be i
 A final class is a class declared using the final keyword. It cannot be inherited by another class.
 4. Static Nested Class
 A static nested class is a class declared with the static keyword inside another class.
+5. Inner Class
+An inner class is a non-static class declared inside another class.
+6. Local Inner Class
+A local inner class is a class declared inside a method or a block.
+7. Anonymous Inner Class
+An anonymous inner class is a class without a name, created and instantiated in a single expression.
