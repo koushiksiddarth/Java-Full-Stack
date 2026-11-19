@@ -34,4 +34,21 @@ Definition: Access modifiers in Java are keywords used to control the visibility
 Java has 4 types of access modifiers.
 1. Public
 Definition: The public modifier allows a class, method, or variable to be accessed from anywhere.
+2. Private
+Definition: The private modifier allows a member to be accessed only within the same class.
+3. Protected
+Definition: The protected modifier allows access within the same package and in subclasses outside the package.
+4. Default
+Definition: When no access modifier is specified, Java uses default (package-private) access. Members can be accessed only within the same package.
 
+
+      Functions
+Definition: A function is a block of code designed to perform a specific task. In Java, functions are called methods because they are defined inside a class.
+1. No Arguments and No Return Value
+Definition: A method that does not accept any parameters and does not return any value.
+2. Arguments and No Return Value
+Definition: A method that accepts parameters but does not return any value.
+3. No Arguments and With Return Value
+Definition: A method that does not accept parameters but returns a value.
+4. Arguments and With Return Value
+Definition: A method that accepts parameters and returns a value.
