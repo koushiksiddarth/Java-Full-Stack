@@ -26,3 +26,12 @@ An inner class is a non-static class declared inside another class.
 A local inner class is a class declared inside a method or a block.
 7. Anonymous Inner Class
 An anonymous inner class is a class without a name, created and instantiated in a single expression.
+
+       Access modifiers
+
+Definition: Access modifiers in Java are keywords used to control the visibility and accessibility of classes, methods, constructors, and variables.
+
+Java has 4 types of access modifiers.
+1. Public
+Definition: The public modifier allows a class, method, or variable to be accessed from anywhere.
+
