@@ -1,1 +1,22 @@
-
+             ********************String Methods in Java********************
+In Java, String methods are predefined methods used to perform operations on strings, such as finding length, converting uppercase/lowercase, comparing strings, extracting characters, and replacing text.
+1. Important String Methods
+ Method	Description	Example
+      length()	Returns string length	"Java".length() → 4
+      charAt()	Returns character at index	"Java".charAt(1) → a
+      toUpperCase()	Converts to uppercase	"java" → JAVA
+      toLowerCase()	Converts to lowercase	"JAVA" → java
+      trim()	Removes leading/trailing spaces	" Java ".trim()
+      equals()	Compares two strings	"Java".equals("Java")
+      equalsIgnoreCase()	Compares ignoring case	"JAVA".equalsIgnoreCase("java")
+      contains()	Checks whether text exists	"Java".contains("av")
+      startsWith()	Checks starting characters	"Java".startsWith("Ja")
+      endsWith()	Checks ending characters	"Java".endsWith("va")
+      substring()	Extracts part of string	"Java".substring(1,3)
+      replace()	Replaces characters/text	"Java".replace('a','o')
+      indexOf()	Returns first occurrence index	"Java".indexOf('a')
+      lastIndexOf()	Returns last occurrence index	"Java".lastIndexOf('a')
+      concat()	Joins two strings	"Hello".concat(" World")
+      isEmpty()	Checks whether string is empty	"".isEmpty()
+      repeat()	Repeats a string	"Hi".repeat(3)
+      split()	Splits string into an array	"A,B,C".split(",")
