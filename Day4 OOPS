@@ -1,0 +1,22 @@
+ ***********************OOPS*************************
+Definition
+OOP        	Object-Oriented Programming is a programming paradigm based on classes and objects.
+Class      	A class is a blueprint or template used to create objects.
+Object	    An object is an instance of a class that contains state and behavior.
+Method	    A method is a block of code that performs a specific task.
+Variable   	A variable is a named memory location used to store data.
+Constructor    	A constructor is a special member of a class used to initialize objects.
+Inheritance	    Inheritance is a mechanism where one class acquires the properties and methods of another class.
+Polymorphism  	Polymorphism means one thing having many forms.
+Encapsulation	  Encapsulation is the process of wrapping data and methods into a single unit.
+Abstraction    	Abstraction is the process of hiding implementation details and showing only essential functionality.
+
+                Types of class
+
+1.Concerete class is a regular class that can be used to create objects
+2. Abstract Class
+An abstract class is a class declared using the abstract keyword. It cannot be instantiated directly.
+3. Final Class
+A final class is a class declared using the final keyword. It cannot be inherited by another class.
+4. Static Nested Class
+A static nested class is a class declared with the static keyword inside another class.
